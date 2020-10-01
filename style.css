@@ -11,3 +11,34 @@ span{
 #coordonné{
   margin: -10px 0px 100px 0px; 
 }
+#header{
+    text-decoration: underline;
+     background-color: #c2c2c2;
+
+}
+#form{
+    text-decoration: underline;
+    background-color: #c2c2c2;
+}
+#head{
+    text-decoration: underline;
+    background-color: #c2c2c2;
+}
+#lg{
+    text-decoration: underline;
+    background-color: #c2c2c2;
+}
+.bloc{
+    
+       
+        width: 100%;
+        margin: 10px 3px 6px 7px;
+      };
+      .bd{
+        background-color: lightblue;
+      }
+      #photo{
+          float: right;
+          
+          width: 200px;
+      }
