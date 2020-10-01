@@ -10,10 +10,13 @@ span{
 }
 #coordonné{
   margin: -10px 0px 100px 0px; 
+  background-color:#c2c2c2 ;
+  width: 30%;
 }
 #header{
     text-decoration: underline;
      background-color: #c2c2c2;
+ 
 
 }
 #form{
@@ -39,6 +42,6 @@ span{
       }
       #photo{
           float: right;
-          
+          border-radius: 10px;
           width: 200px;
       }
